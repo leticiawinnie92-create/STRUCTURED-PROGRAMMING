@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790660407 source:c:\users\leticia\desktop\s26b26-140\interactive console program\main.c
+	<stdio.h>
+	<stdlib.h>
+
